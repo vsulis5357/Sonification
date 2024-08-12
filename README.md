@@ -97,4 +97,4 @@ Finally, the most important reason for exploring alternative ways of displaying 
 
 
 
-![]((https://github.com/vsulis5357/Sonification.git))
+![](https://github.com/vsulis5357/Sonification.git)
