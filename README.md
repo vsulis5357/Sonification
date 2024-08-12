@@ -95,6 +95,4 @@ It has been shown that the use of images and sounds simultaneously has a positiv
   
 Finally, the most important reason for exploring alternative ways of displaying information and doing data analysis is inclusivity. All sciences represent data using traditional visualization tools, making it extremely challenging for visually impaired individuals to approach research. Using audio can open the doors to a world of opportunities through which to cultivate their interests.
 
-
-
-![](https://github.com/vsulis5357/Sonification.git)
+![](https://komarev.com/ghpvc/?username=vsulis5357)
