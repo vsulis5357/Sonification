@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Sonification of Astronomical Data"
+version: 1.0.0
+repository-code: "https://github.com/vsulis5357/Sonification"
+license: MIT
+keywords:
+  - sonification
+  - muon
+  - scatterplots
+  - audio
+  - data analysis
+  - astronomy
+  - astrophysics
+  - imaging system
+  - spatially distributed datasets
+authors:
+  - family-names: Sulis
+    given-names: Valentina
+    orcid: "https://orcid.org/0009-0002-7953-9123"  
+    affiliation: Durham University
+date-released: 2024-09-09
+url: "https://github.com/vsulis5357/Sonification"
