@@ -1,4 +1,4 @@
-# Sonification of Muon Images
+# Sonification of Astronomical Data
 This is an extension to the Astronify* software (https://astronify.readthedocs.io/en/latest/) to allow the sonification of a spatially distributed dataset. In particular, this code was developed as a master project from Durham University to sonify muon images from the VERITAS Array. 
 
 Below you can find an example of how the two parts of the program work: the first one reproduces any image into a scatterplot, the second takes this new array and converts it into an audible map.
